@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Scarlet Compendium Teleport
+## Notes: Quickly teleport using Scarlet Compendium (Horde + Alliance)
+## Author: KZS
+## Version: 3.0
+ScarletCompendiumTeleport.lua
